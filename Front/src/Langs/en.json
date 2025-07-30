@@ -1,0 +1,137 @@
+{
+  "home": "Home",
+  "features": "Features",
+  "pricing": "Pricing",
+  "contact": "Contact",
+  "getStarted": "Get Started",
+  "loading": "Loading...",
+  "footer": {
+    "description": "We provide the best hosting services and technical solutions for your digital project success",
+    "rights": "© 2025 PikyHost. All rights reserved."
+  },
+  "hero": {
+    "badge": "Fastest in the Region",
+    "title": "Discover the Power and Speed of PikyHost's Shared Hosting",
+    "subtitle": "Your First Step Towards Exceptional Digital Success",
+    "description": "Your Website Deserves the Best... We guarantee the speed, security, and stability your clients and search engines can always trust.",
+    "stats": {
+      "uptime": "% Uptime",
+      "support": "24/7 Support",
+      "clients": "+ Happy Clients"
+    },
+    "buttons": {
+      "subscribe": "Subscribe Now",
+      "watchDemo": "Watch Demo"
+    },
+    "card": {
+      "title": "Control Panel",
+      "title2": "Load Time",
+      "title3": "Secure"
+    }
+  },
+  "whyChoose": {
+    "title": "Why Choose Our Shared Hosting?",
+    "description": "In the world of digital business, there is no room for risk... Choose shared hosting that combines top-level security, outstanding performance, and continuous support—carefully designed to meet the ambitions of entrepreneurs and Class A businesses in Egypt and the Gulf region, with reliable, fast technological solutions without complications."
+  },
+  "Features": {
+    "title": "Features of Our Shared Hosting",
+    "list": {
+      "performance": {
+        "title": "Superior Performance",
+        "description": "Ultra-fast SSD drives + LiteSpeed technology ensure instant website loading, regardless of data volume."
+      },
+      "security": {
+        "title": "Absolute Security",
+        "description": "WAF firewall, automatically renewed SSL certificate, daily backups, and global CDN distribution."
+      },
+      "control": {
+        "title": "Full Control",
+        "description": "One-click installation for WordPress and 400+ applications, with an easy-to-use Spanel control panel + free Website Builder."
+      },
+      "support": {
+        "title": "Specialized Support",
+        "description": "A professional technical support team, available in Arabic and English, directly addressing your needs 24/7."
+      }
+    }
+  },
+  "Pricing": {
+    "badge": "Choose the Plan That Suits Your Needs",
+    "choose": "Choose This Plan",
+    "perYear": "year",
+    "basic": {
+      "title": "Basic Plan",
+      "desc": "For startups",
+      "features": [
+        "5 websites",
+        "10 GB ultra-fast SSD storage",
+        "512 MB RAM",
+        "100,000 Inodes",
+        "Unlimited data transfer",
+        "10 professional email accounts",
+        "Advanced CDN + WAF security",
+        "Free SSL certificate with automatic renewal",
+        "Daily internal backups"
+      ]
+    },
+    "advanced": {
+      "title": "Advanced Plan",
+      "popularBadge": "Most Popular",
+      "originalPrice": "Instead of ${{price}}",
+      "features": [
+        "100 websites",
+        "40 GB advanced SSD storage",
+        "1 GB RAM",
+        "400,000 Inodes",
+        "Unlimited data transfer",
+        "Unlimited email accounts",
+        "Comprehensive CDN + WAF security",
+        "Daily external backups for maximum protection"
+      ]
+    },
+    "professional": {
+      "title": "Professional Plan",
+      "desc": "For large projects",
+      "features": [
+        "Unlimited websites (fair usage)",
+        "80 GB high-performance SSD storage",
+        "2 GB RAM",
+        "800,000 Inodes",
+        "Unlimited data transfer",
+        "Unlimited email accounts (fair usage)",
+        "Integrated CDN + WAF security",
+        "Advanced daily backups"
+      ]
+    },
+    "included": {
+      "title": "All Plans Include:",
+      "features": [
+        { "title": "Free Domain", "desc": "For one full year" },
+        { "title": "Free SSL Certificate", "desc": "With automatic renewal" },
+        { "title": "Daily Backups", "desc": "Complete data protection" },
+        { "title": "24/7 Live Support", "desc": "Expert team always available" }
+      ]
+    }
+  },
+  "audience": {
+    "title": "Who Is Shared Hosting For?",
+    "startups": "Owners of startups and medium-sized businesses",
+    "companyWebsites": "Company websites and professional portfolios",
+    "ecommerce": "Small and medium-sized e-commerce stores",
+    "blogs": "Personal blogs and media websites",
+    "anyone": "Anyone seeking fast and secure hosting without exorbitant costs"
+  },
+  "cta": {
+    "title": "Don't let your website be a weak point in your digital strategy...",
+    "subtitle": "Choose the hosting that matches your distinguished business.",
+    "button": "Subscribe Now"
+  },
+  "Contact": {
+    "call": "Call Us",
+    "email": "Email Us",
+    "location": "Visit Us",
+    "address": "71 - 75 Shelton Street, London, UK"
+  },
+  "feature-cta": {
+    "btn": "Subscribe Now"
+  }
+}

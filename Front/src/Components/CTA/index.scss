@@ -1,0 +1,27 @@
+.cta-section {
+  background: var(--gradient-primary);
+  color: var(--text-light);
+  text-align: center;
+}
+
+.cta-content h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.cta-content p {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+  opacity: 0.9;
+}
+
+.cta-section .btn-primary-modern {
+  background: white;
+  color: var(--primary);
+}
+
+.cta-section .btn-primary-modern:hover {
+  background: var(--accent3);
+  color: var(--text-dark);
+}

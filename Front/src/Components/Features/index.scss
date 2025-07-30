@@ -1,0 +1,107 @@
+.features-section {
+  background: white;
+}
+
+.features-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+    margin-top: 3rem;
+}
+
+.feature-card.modern {
+  background: white;
+  padding: 2.5rem;
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: var(--transition);
+  position: relative;
+  overflow: hidden;
+  will-change: transform;
+}
+
+.feature-card.modern::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: var(--gradient-primary);
+  transform: scaleX(0);
+  transition: var(--transition);
+}
+
+.feature-card.modern:hover::before {
+  transform: scaleX(1);
+}
+
+.feature-card.modern:hover {
+  transform: translateY(-10px);
+  box-shadow: var(--shadow-lg);
+}
+
+.feature-icon-wrapper {
+  position: relative;
+  margin-bottom: 1.5rem;
+}
+
+.feature-icon {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-light);
+  position: relative;
+  z-index: 2;
+}
+
+.feature-icon svg {
+  width: 32px;
+  height: 32px;
+  fill: currentColor;
+}
+
+.feature-icon.primary {
+  background: var(--gradient-primary);
+}
+
+.feature-icon.secondary {
+  background: var(--gradient-secondary);
+}
+
+.feature-icon.accent {
+  background: linear-gradient(135deg, var(--accent1), var(--accent3));
+}
+
+.feature-icon.tertiary {
+  background: linear-gradient(135deg, var(--accent2), var(--primary));
+}
+
+.icon-bg {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px;
+  height: 100px;
+  background: inherit;
+  border-radius: 50%;
+  opacity: 0.1;
+  z-index: 1;
+}
+
+.feature-card.modern h3 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--text-dark);
+}
+
+.feature-card.modern p {
+  color: var(--text-muted);
+  line-height: 1.6;
+}

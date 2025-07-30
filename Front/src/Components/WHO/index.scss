@@ -1,0 +1,47 @@
+.target-audience-section {
+  background: white;
+}
+
+.target-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin-top: 3rem;
+}
+
+.target-card {
+  background: var(--bg-light);
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  transition: var(--transition);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  will-change: transform;
+}
+
+.target-card:hover {
+  transform: translateX(10px);
+  background: white;
+  box-shadow: var(--shadow-md);
+}
+
+.target-icon {
+  width: 40px;
+  height: 40px;
+  background: var(--gradient-primary);
+  color: var(--text-light);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  flex-shrink: 0;
+}
+
+.target-card p {
+  color: var(--text-dark);
+  line-height: 1.6;
+  margin: 0;
+}

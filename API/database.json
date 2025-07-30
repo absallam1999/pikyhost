@@ -1,0 +1,10 @@
+{
+  "dev": {
+    "port": 3307,
+    "driver": "mysql",
+    "host": "localhost",
+    "user": "root",
+    "password": "1234",
+    "database": "PikyHost"
+  }
+}
