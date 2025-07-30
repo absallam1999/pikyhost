@@ -231,7 +231,7 @@ MIT License © 2025 [Mohamed Badr](https://github.com/absallam1999)
 
 ---
 
-## 👩‍💻 Contributors
+## 👩‍💻 Collaborators
 
 - Eman Gazy [github](https://github.com/EmanGhazy-2002)
 
