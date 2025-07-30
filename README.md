@@ -118,7 +118,7 @@ cd Front
 npm run dev
 ```
 
-Frontend runs on `http://localhost:4000`  
+Frontend runs on `http://localhost:3000`  
 Backend runs on `http://localhost:5000`
 
 ---
