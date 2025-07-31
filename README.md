@@ -69,7 +69,7 @@ cd PikyHost
 
 ### 2. Setup Environment Variables
 
-Create a `.env` file inside the `/server` directory:
+Create a `.env` file inside the `/API` directory:
 
 ```env
 PORT=5000
