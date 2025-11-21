@@ -145,7 +145,7 @@ Backend runs on `http://localhost:5000`
 
 ---
 
-## 🧑‍💼 Admin Panel
+## 💼 Admin Panel
 
 - Admin login using special password or JWT-based session
 - Manage Sections and Section Items (CRUD)
@@ -220,7 +220,6 @@ Ensure `.env` is configured correctly for production.
 
 ## 📌 To-Do
 
-- [ ] Add admin dashboard charts
 - [ ] Add test coverage (Jest or Mocha)
 
 ---
