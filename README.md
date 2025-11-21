@@ -238,9 +238,3 @@ MIT License © 2025 [Mohamed Badr](https://github.com/absallam1999)
 
 Contributions, issues, and feature requests are welcome!  
 Feel free to check [issues page](https://github.com/absallam1999/PikyHost/issues).
-
----
-
-## 📞 Contact
-
-For support, email: **support@pikyhost.com**
